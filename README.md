@@ -1,9 +1,11 @@
 # pi_conference_recorder
 Project to use a Raspberry Pi to record a conference room direct to mp3.
 
-## Background
+### Background
 
-## Required Packages
+
+
+### Required Packages
 
 lame MP3 recording shared library
 
@@ -11,4 +13,4 @@ lame MP3 recording shared library
 
 
 
-## Recording to a Network Share
+### Recording to a Network Share
