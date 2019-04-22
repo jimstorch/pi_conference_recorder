@@ -11,6 +11,9 @@ lame MP3 recording shared library
 
 ```sudo apt install lame```
 
+GPIO Zero library for Python 3
+
+```sudo apt install python3-gpiozero```
 
 
 ### Recording to a Network Share
